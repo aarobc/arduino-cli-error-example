@@ -1,0 +1,8 @@
+profiles:
+  uno:
+    notes: demo
+    fqbn: arduino:avr:uno
+    platforms:
+      - platform: arduino:avr (1.8.6)
+    libraries:
+      - Encoder (1.4.2)
